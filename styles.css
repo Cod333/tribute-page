@@ -1,0 +1,53 @@
+html{
+    font-size: 11px;
+  }
+  body{
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+    margin: 0;
+  }
+  h1{
+    font-size: 4rem;
+    margin: 0;
+    padding-top: 20px;
+  }
+  img{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  a{
+    color: #2947A9;
+  }
+  a:visited{
+    color: #B487AB;
+  }
+  #main{
+   margin: 30px 30px;
+   padding: 20px;
+   border-radius: 5px;
+   background: #C8D0E3;
+  }
+  #img-div{
+    background: white;
+    padding: 50px 30px 20px 30px;
+    margin: 50px 100px 50px 100px;
+  }
+  #img-caption{
+    margin: 10px 10px 0 10px;
+  }
+  #blockqoute{
+    font-style: italic;
+    text-align: left;
+    margin: 0 50px 0 50px;
+  }
+  p{
+    text-align: left;
+    padding: 0 25px 0 25px;
+  }
+  #title-caption{
+    text-align: center;
+  }
